@@ -1,0 +1,829 @@
+Year,Region_Name,Bias_Desc,Count
+2015,Midwest,Anti-American Indian or Alaska Native,79
+2015,Midwest,Anti-Arab,6
+2015,Midwest,Anti-Asian,19
+2015,Midwest,Anti-Atheism/Agnosticism,1
+2015,Midwest,Anti-Bisexual,13
+2015,Midwest,Anti-Black or African American,451
+2015,Midwest,Anti-Catholic,12
+2015,Midwest,"Anti-Eastern Orthodox (Russian, Greek, Other)",1
+2015,Midwest,Anti-Female,3
+2015,Midwest,Anti-Gay (Male),127
+2015,Midwest,Anti-Heterosexual,7
+2015,Midwest,Anti-Hindu,1
+2015,Midwest,Anti-Hispanic or Latino,35
+2015,Midwest,Anti-Islamic (Muslim),63
+2015,Midwest,Anti-Jewish,51
+2015,Midwest,Anti-Lesbian (Female),21
+2015,Midwest,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",41
+2015,Midwest,Anti-Male,1
+2015,Midwest,Anti-Mental Disability,7
+2015,Midwest,Anti-Mormon,1
+2015,Midwest,"Anti-Multiple Races, Group",30
+2015,Midwest,"Anti-Multiple Religions, Group",7
+2015,Midwest,Anti-Native Hawaiian or Other Pacific Islander,1
+2015,Midwest,Anti-Other Christian,4
+2015,Midwest,Anti-Other Race/Ethnicity/Ancestry,54
+2015,Midwest,Anti-Other Religion,9
+2015,Midwest,Anti-Physical Disability,16
+2015,Midwest,Anti-Protestant,17
+2015,Midwest,Anti-Sikh,1
+2015,Midwest,Anti-Transgender,5
+2015,Midwest,Anti-White,187
+2015,Northeast,Anti-American Indian or Alaska Native,4
+2015,Northeast,Anti-Arab,13
+2015,Northeast,Anti-Asian,46
+2015,Northeast,Anti-Bisexual,4
+2015,Northeast,Anti-Black or African American,385
+2015,Northeast,Anti-Catholic,18
+2015,Northeast,"Anti-Eastern Orthodox (Russian, Greek, Other)",1
+2015,Northeast,Anti-Female,11
+2015,Northeast,Anti-Gay (Male),184
+2015,Northeast,Anti-Gender Non-Conforming,35
+2015,Northeast,Anti-Heterosexual,2
+2015,Northeast,Anti-Hindu,4
+2015,Northeast,Anti-Hispanic or Latino,54
+2015,Northeast,Anti-Islamic (Muslim),70
+2015,Northeast,Anti-Jewish,390
+2015,Northeast,Anti-Lesbian (Female),46
+2015,Northeast,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",14
+2015,Northeast,Anti-Male,3
+2015,Northeast,Anti-Mental Disability,5
+2015,Northeast,"Anti-Multiple Races, Group",12
+2015,Northeast,"Anti-Multiple Religions, Group",2
+2015,Northeast,Anti-Other Christian,4
+2015,Northeast,Anti-Other Race/Ethnicity/Ancestry,51
+2015,Northeast,Anti-Other Religion,20
+2015,Northeast,Anti-Physical Disability,7
+2015,Northeast,Anti-Protestant,3
+2015,Northeast,Anti-Transgender,15
+2015,Northeast,Anti-White,70
+2015,South,Anti-American Indian or Alaska Native,15
+2015,South,Anti-Arab,6
+2015,South,Anti-Asian,15
+2015,South,Anti-Bisexual,7
+2015,South,Anti-Black or African American,419
+2015,South,Anti-Catholic,3
+2015,South,"Anti-Eastern Orthodox (Russian, Greek, Other)",40
+2015,South,Anti-Female,2
+2015,South,Anti-Gay (Male),150
+2015,South,Anti-Gender Non-Conforming,3
+2015,South,Anti-Heterosexual,7
+2015,South,Anti-Hispanic or Latino,67
+2015,South,Anti-Islamic (Muslim),56
+2015,South,Anti-Jewish,63
+2015,South,Anti-Lesbian (Female),25
+2015,South,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",43
+2015,South,Anti-Mental Disability,14
+2015,South,Anti-Mormon,6
+2015,South,"Anti-Multiple Races, Group",38
+2015,South,"Anti-Multiple Religions, Group",14
+2015,South,Anti-Other Christian,6
+2015,South,Anti-Other Race/Ethnicity/Ancestry,84
+2015,South,Anti-Other Religion,15
+2015,South,Anti-Physical Disability,4
+2015,South,Anti-Protestant,10
+2015,South,Anti-Sikh,2
+2015,South,Anti-Transgender,18
+2015,South,Anti-White,212
+2015,U.S. Territories,Anti-Native Hawaiian or Other Pacific Islander,1
+2015,West,Anti-American Indian or Alaska Native,33
+2015,West,Anti-Arab,15
+2015,West,Anti-Asian,35
+2015,West,Anti-Atheism/Agnosticism,1
+2015,West,Anti-Bisexual,7
+2015,West,Anti-Black or African American,506
+2015,West,Anti-Buddhist,1
+2015,West,Anti-Catholic,21
+2015,West,"Anti-Eastern Orthodox (Russian, Greek, Other)",7
+2015,West,Anti-Female,1
+2015,West,Anti-Gay (Male),213
+2015,West,Anti-Gender Non-Conforming,3
+2015,West,Anti-Heterosexual,3
+2015,West,Anti-Hispanic or Latino,145
+2015,West,Anti-Islamic (Muslim),71
+2015,West,Anti-Jehovah's Witness,1
+2015,West,Anti-Jewish,164
+2015,West,Anti-Lesbian (Female),46
+2015,West,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",107
+2015,West,Anti-Male,3
+2015,West,Anti-Mental Disability,5
+2015,West,Anti-Mormon,1
+2015,West,"Anti-Multiple Races, Group",33
+2015,West,"Anti-Multiple Religions, Group",28
+2015,West,Anti-Native Hawaiian or Other Pacific Islander,2
+2015,West,Anti-Other Christian,1
+2015,West,Anti-Other Race/Ethnicity/Ancestry,69
+2015,West,Anti-Other Religion,52
+2015,West,Anti-Physical Disability,18
+2015,West,Anti-Protestant,7
+2015,West,Anti-Sikh,3
+2015,West,Anti-Transgender,35
+2015,West,Anti-White,145
+2016,Midwest,Anti-American Indian or Alaska Native,89
+2016,Midwest,Anti-Arab,13
+2016,Midwest,Anti-Asian,25
+2016,Midwest,Anti-Atheism/Agnosticism,4
+2016,Midwest,Anti-Bisexual,5
+2016,Midwest,Anti-Black or African American,498
+2016,Midwest,Anti-Catholic,14
+2016,Midwest,"Anti-Eastern Orthodox (Russian, Greek, Other)",3
+2016,Midwest,Anti-Female,6
+2016,Midwest,Anti-Gay (Male),100
+2016,Midwest,Anti-Gender Non-Conforming,2
+2016,Midwest,Anti-Heterosexual,1
+2016,Midwest,Anti-Hindu,1
+2016,Midwest,Anti-Hispanic or Latino,64
+2016,Midwest,Anti-Islamic (Muslim),67
+2016,Midwest,Anti-Jewish,54
+2016,Midwest,Anti-Lesbian (Female),25
+2016,Midwest,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",71
+2016,Midwest,Anti-Male,4
+2016,Midwest,Anti-Mental Disability,30
+2016,Midwest,"Anti-Multiple Races, Group",21
+2016,Midwest,"Anti-Multiple Religions, Group",10
+2016,Midwest,Anti-Native Hawaiian or Other Pacific Islander,1
+2016,Midwest,Anti-Other Christian,2
+2016,Midwest,Anti-Other Race/Ethnicity/Ancestry,58
+2016,Midwest,Anti-Other Religion,16
+2016,Midwest,Anti-Physical Disability,6
+2016,Midwest,Anti-Protestant,3
+2016,Midwest,Anti-Transgender,5
+2016,Midwest,Anti-White,247
+2016,Northeast,Anti-American Indian or Alaska Native,4
+2016,Northeast,Anti-Arab,11
+2016,Northeast,Anti-Asian,34
+2016,Northeast,Anti-Bisexual,2
+2016,Northeast,Anti-Black or African American,382
+2016,Northeast,Anti-Buddhist,1
+2016,Northeast,Anti-Catholic,25
+2016,Northeast,"Anti-Eastern Orthodox (Russian, Greek, Other)",1
+2016,Northeast,Anti-Female,8
+2016,Northeast,Anti-Gay (Male),178
+2016,Northeast,Anti-Gender Non-Conforming,10
+2016,Northeast,Anti-Heterosexual,9
+2016,Northeast,Anti-Hindu,7
+2016,Northeast,Anti-Hispanic or Latino,60
+2016,Northeast,Anti-Islamic (Muslim),83
+2016,Northeast,Anti-Jehovah's Witness,1
+2016,Northeast,Anti-Jewish,428
+2016,Northeast,Anti-Lesbian (Female),41
+2016,Northeast,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",28
+2016,Northeast,Anti-Male,2
+2016,Northeast,Anti-Mental Disability,9
+2016,Northeast,"Anti-Multiple Races, Group",17
+2016,Northeast,"Anti-Multiple Religions, Group",4
+2016,Northeast,Anti-Other Christian,6
+2016,Northeast,Anti-Other Race/Ethnicity/Ancestry,65
+2016,Northeast,Anti-Other Religion,14
+2016,Northeast,Anti-Physical Disability,6
+2016,Northeast,Anti-Protestant,3
+2016,Northeast,Anti-Transgender,29
+2016,Northeast,Anti-White,96
+2016,South,Anti-American Indian or Alaska Native,25
+2016,South,Anti-Arab,6
+2016,South,Anti-Asian,13
+2016,South,Anti-Atheism/Agnosticism,1
+2016,South,Anti-Bisexual,8
+2016,South,Anti-Black or African American,389
+2016,South,Anti-Buddhist,1
+2016,South,Anti-Catholic,4
+2016,South,"Anti-Eastern Orthodox (Russian, Greek, Other)",21
+2016,South,Anti-Female,3
+2016,South,Anti-Gay (Male),163
+2016,South,Anti-Gender Non-Conforming,3
+2016,South,Anti-Heterosexual,5
+2016,South,Anti-Hindu,2
+2016,South,Anti-Hispanic or Latino,64
+2016,South,Anti-Islamic (Muslim),66
+2016,South,Anti-Jehovah's Witness,1
+2016,South,Anti-Jewish,57
+2016,South,Anti-Lesbian (Female),35
+2016,South,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",47
+2016,South,Anti-Mental Disability,18
+2016,South,Anti-Mormon,5
+2016,South,"Anti-Multiple Races, Group",38
+2016,South,"Anti-Multiple Religions, Group",8
+2016,South,Anti-Native Hawaiian or Other Pacific Islander,1
+2016,South,Anti-Other Christian,9
+2016,South,Anti-Other Race/Ethnicity/Ancestry,37
+2016,South,Anti-Other Religion,14
+2016,South,Anti-Physical Disability,23
+2016,South,Anti-Protestant,5
+2016,South,Anti-Sikh,5
+2016,South,Anti-Transgender,34
+2016,South,Anti-White,202
+2016,West,Anti-American Indian or Alaska Native,40
+2016,West,Anti-Arab,28
+2016,West,Anti-Asian,43
+2016,West,Anti-Bisexual,9
+2016,West,Anti-Black or African American,524
+2016,West,Anti-Catholic,19
+2016,West,"Anti-Eastern Orthodox (Russian, Greek, Other)",7
+2016,West,Anti-Female,5
+2016,West,Anti-Gay (Male),257
+2016,West,Anti-Gender Non-Conforming,5
+2016,West,Anti-Heterosexual,5
+2016,West,Anti-Hindu,1
+2016,West,Anti-Hispanic or Latino,164
+2016,West,Anti-Islamic (Muslim),96
+2016,West,Anti-Jewish,159
+2016,West,Anti-Lesbian (Female),31
+2016,West,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",100
+2016,West,Anti-Male,1
+2016,West,Anti-Mental Disability,2
+2016,West,Anti-Mormon,2
+2016,West,"Anti-Multiple Races, Group",66
+2016,West,"Anti-Multiple Religions, Group",12
+2016,West,Anti-Native Hawaiian or Other Pacific Islander,7
+2016,West,Anti-Other Christian,20
+2016,West,Anti-Other Race/Ethnicity/Ancestry,67
+2016,West,Anti-Other Religion,36
+2016,West,Anti-Physical Disability,7
+2016,West,Anti-Protestant,5
+2016,West,Anti-Sikh,5
+2016,West,Anti-Transgender,38
+2016,West,Anti-White,193
+2017,Midwest,Anti-American Indian or Alaska Native,33
+2017,Midwest,Anti-Arab,22
+2017,Midwest,Anti-Asian,15
+2017,Midwest,Anti-Atheism/Agnosticism,3
+2017,Midwest,Anti-Bisexual,7
+2017,Midwest,Anti-Black or African American,456
+2017,Midwest,Anti-Buddhist,2
+2017,Midwest,Anti-Catholic,20
+2017,Midwest,"Anti-Eastern Orthodox (Russian, Greek, Other)",9
+2017,Midwest,Anti-Female,3
+2017,Midwest,Anti-Gay (Male),101
+2017,Midwest,Anti-Gender Non-Conforming,1
+2017,Midwest,Anti-Heterosexual,3
+2017,Midwest,Anti-Hindu,1
+2017,Midwest,Anti-Hispanic or Latino,55
+2017,Midwest,Anti-Islamic (Muslim),73
+2017,Midwest,Anti-Jehovah's Witness,1
+2017,Midwest,Anti-Jewish,89
+2017,Midwest,Anti-Lesbian (Female),31
+2017,Midwest,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",71
+2017,Midwest,Anti-Male,6
+2017,Midwest,Anti-Mental Disability,40
+2017,Midwest,"Anti-Multiple Races, Group",45
+2017,Midwest,"Anti-Multiple Religions, Group",7
+2017,Midwest,Anti-Native Hawaiian or Other Pacific Islander,3
+2017,Midwest,Anti-Other Christian,5
+2017,Midwest,Anti-Other Race/Ethnicity/Ancestry,60
+2017,Midwest,Anti-Other Religion,23
+2017,Midwest,Anti-Physical Disability,9
+2017,Midwest,Anti-Protestant,15
+2017,Midwest,Anti-Sikh,4
+2017,Midwest,Anti-Transgender,3
+2017,Midwest,Anti-White,252
+2017,Northeast,Anti-American Indian or Alaska Native,6
+2017,Northeast,Anti-Arab,34
+2017,Northeast,Anti-Asian,43
+2017,Northeast,Anti-Atheism/Agnosticism,1
+2017,Northeast,Anti-Bisexual,4
+2017,Northeast,Anti-Black or African American,542
+2017,Northeast,Anti-Buddhist,7
+2017,Northeast,Anti-Catholic,18
+2017,Northeast,Anti-Female,6
+2017,Northeast,Anti-Gay (Male),147
+2017,Northeast,Anti-Gender Non-Conforming,2
+2017,Northeast,Anti-Heterosexual,12
+2017,Northeast,Anti-Hindu,2
+2017,Northeast,Anti-Hispanic or Latino,63
+2017,Northeast,Anti-Islamic (Muslim),70
+2017,Northeast,Anti-Jewish,526
+2017,Northeast,Anti-Lesbian (Female),23
+2017,Northeast,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",32
+2017,Northeast,Anti-Male,4
+2017,Northeast,Anti-Mental Disability,15
+2017,Northeast,"Anti-Multiple Races, Group",34
+2017,Northeast,"Anti-Multiple Religions, Group",6
+2017,Northeast,Anti-Native Hawaiian or Other Pacific Islander,1
+2017,Northeast,Anti-Other Christian,2
+2017,Northeast,Anti-Other Race/Ethnicity/Ancestry,45
+2017,Northeast,Anti-Other Religion,13
+2017,Northeast,Anti-Physical Disability,3
+2017,Northeast,Anti-Protestant,3
+2017,Northeast,Anti-Transgender,25
+2017,Northeast,Anti-White,78
+2017,Other,Anti-Black or African American,1
+2017,Other,"Anti-Multiple Races, Group",1
+2017,Other,Anti-Other Race/Ethnicity/Ancestry,1
+2017,South,Anti-American Indian or Alaska Native,168
+2017,South,Anti-Arab,20
+2017,South,Anti-Asian,20
+2017,South,Anti-Atheism/Agnosticism,2
+2017,South,Anti-Bisexual,6
+2017,South,Anti-Black or African American,500
+2017,South,Anti-Buddhist,5
+2017,South,Anti-Catholic,7
+2017,South,"Anti-Eastern Orthodox (Russian, Greek, Other)",5
+2017,South,Anti-Female,37
+2017,South,Anti-Gay (Male),173
+2017,South,Anti-Gender Non-Conforming,4
+2017,South,Anti-Heterosexual,8
+2017,South,Anti-Hindu,3
+2017,South,Anti-Hispanic or Latino,92
+2017,South,Anti-Islamic (Muslim),45
+2017,South,Anti-Jehovah's Witness,1
+2017,South,Anti-Jewish,133
+2017,South,Anti-Lesbian (Female),39
+2017,South,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",60
+2017,South,Anti-Male,10
+2017,South,Anti-Mental Disability,24
+2017,South,Anti-Mormon,5
+2017,South,"Anti-Multiple Races, Group",45
+2017,South,"Anti-Multiple Religions, Group",30
+2017,South,Anti-Native Hawaiian or Other Pacific Islander,7
+2017,South,Anti-Other Christian,10
+2017,South,Anti-Other Race/Ethnicity/Ancestry,89
+2017,South,Anti-Other Religion,20
+2017,South,Anti-Physical Disability,48
+2017,South,Anti-Protestant,7
+2017,South,Anti-Sikh,7
+2017,South,Anti-Transgender,29
+2017,South,Anti-White,198
+2017,West,Anti-American Indian or Alaska Native,36
+2017,West,Anti-Arab,30
+2017,West,Anti-Asian,53
+2017,West,Anti-Bisexual,7
+2017,West,Anti-Black or African American,600
+2017,West,Anti-Buddhist,1
+2017,West,Anti-Catholic,27
+2017,West,"Anti-Eastern Orthodox (Russian, Greek, Other)",5
+2017,West,Anti-Female,9
+2017,West,Anti-Gay (Male),263
+2017,West,Anti-Gender Non-Conforming,7
+2017,West,Anti-Heterosexual,8
+2017,West,Anti-Hindu,4
+2017,West,Anti-Hispanic or Latino,230
+2017,West,Anti-Islamic (Muslim),91
+2017,West,Anti-Jehovah's Witness,5
+2017,West,Anti-Jewish,218
+2017,West,Anti-Lesbian (Female),37
+2017,West,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",121
+2017,West,Anti-Male,4
+2017,West,Anti-Mental Disability,8
+2017,West,Anti-Mormon,6
+2017,West,"Anti-Multiple Races, Group",63
+2017,West,"Anti-Multiple Religions, Group",8
+2017,West,Anti-Native Hawaiian or Other Pacific Islander,3
+2017,West,Anti-Other Christian,8
+2017,West,Anti-Other Race/Ethnicity/Ancestry,85
+2017,West,Anti-Other Religion,28
+2017,West,Anti-Physical Disability,7
+2017,West,Anti-Protestant,15
+2017,West,Anti-Sikh,7
+2017,West,Anti-Transgender,52
+2017,West,Anti-White,180
+2018,Midwest,Anti-American Indian or Alaska Native,39
+2018,Midwest,Anti-Arab,19
+2018,Midwest,Anti-Asian,14
+2018,Midwest,Anti-Bisexual,8
+2018,Midwest,Anti-Black or African American,426
+2018,Midwest,Anti-Buddhist,1
+2018,Midwest,Anti-Catholic,16
+2018,Midwest,"Anti-Eastern Orthodox (Russian, Greek, Other)",20
+2018,Midwest,Anti-Female,2
+2018,Midwest,Anti-Gay (Male),126
+2018,Midwest,Anti-Gender Non-Conforming,3
+2018,Midwest,Anti-Heterosexual,7
+2018,Midwest,Anti-Hindu,1
+2018,Midwest,Anti-Hispanic or Latino,70
+2018,Midwest,Anti-Islamic (Muslim),42
+2018,Midwest,Anti-Jehovah's Witness,1
+2018,Midwest,Anti-Jewish,49
+2018,Midwest,Anti-Lesbian (Female),29
+2018,Midwest,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",55
+2018,Midwest,Anti-Male,13
+2018,Midwest,Anti-Mental Disability,55
+2018,Midwest,"Anti-Multiple Races, Group",16
+2018,Midwest,"Anti-Multiple Religions, Group",11
+2018,Midwest,Anti-Native Hawaiian or Other Pacific Islander,8
+2018,Midwest,Anti-Other Christian,4
+2018,Midwest,Anti-Other Race/Ethnicity/Ancestry,59
+2018,Midwest,Anti-Other Religion,23
+2018,Midwest,Anti-Physical Disability,19
+2018,Midwest,Anti-Protestant,10
+2018,Midwest,Anti-Sikh,11
+2018,Midwest,Anti-Transgender,12
+2018,Midwest,Anti-White,240
+2018,Northeast,Anti-American Indian or Alaska Native,7
+2018,Northeast,Anti-Arab,14
+2018,Northeast,Anti-Asian,43
+2018,Northeast,Anti-Atheism/Agnosticism,1
+2018,Northeast,Anti-Bisexual,6
+2018,Northeast,Anti-Black or African American,490
+2018,Northeast,Anti-Buddhist,3
+2018,Northeast,Anti-Catholic,14
+2018,Northeast,"Anti-Eastern Orthodox (Russian, Greek, Other)",1
+2018,Northeast,Anti-Female,6
+2018,Northeast,Anti-Gay (Male),156
+2018,Northeast,Anti-Gender Non-Conforming,4
+2018,Northeast,Anti-Heterosexual,7
+2018,Northeast,Anti-Hindu,1
+2018,Northeast,Anti-Hispanic or Latino,61
+2018,Northeast,Anti-Islamic (Muslim),53
+2018,Northeast,Anti-Jehovah's Witness,1
+2018,Northeast,Anti-Jewish,500
+2018,Northeast,Anti-Lesbian (Female),33
+2018,Northeast,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",20
+2018,Northeast,Anti-Male,2
+2018,Northeast,Anti-Mental Disability,7
+2018,Northeast,Anti-Mormon,1
+2018,Northeast,"Anti-Multiple Races, Group",36
+2018,Northeast,"Anti-Multiple Religions, Group",7
+2018,Northeast,Anti-Other Christian,6
+2018,Northeast,Anti-Other Race/Ethnicity/Ancestry,53
+2018,Northeast,Anti-Other Religion,12
+2018,Northeast,Anti-Physical Disability,8
+2018,Northeast,Anti-Protestant,1
+2018,Northeast,Anti-Sikh,1
+2018,Northeast,Anti-Transgender,23
+2018,Northeast,Anti-White,100
+2018,Northeast,Unknown (offender's motivation not known),1
+2018,Other,Anti-American Indian or Alaska Native,1
+2018,Other,Anti-Arab,1
+2018,Other,Anti-Black or African American,26
+2018,Other,Anti-Catholic,2
+2018,Other,Anti-Gay (Male),12
+2018,Other,Anti-Hindu,1
+2018,Other,Anti-Hispanic or Latino,7
+2018,Other,Anti-Islamic (Muslim),6
+2018,Other,Anti-Jehovah's Witness,1
+2018,Other,Anti-Jewish,11
+2018,Other,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",2
+2018,Other,"Anti-Multiple Races, Group",1
+2018,Other,Anti-Other Christian,1
+2018,Other,Anti-Other Race/Ethnicity/Ancestry,3
+2018,Other,Anti-Other Religion,3
+2018,Other,Anti-Physical Disability,1
+2018,Other,Anti-Protestant,2
+2018,Other,Anti-White,2
+2018,South,Anti-American Indian or Alaska Native,122
+2018,South,Anti-Arab,19
+2018,South,Anti-Asian,24
+2018,South,Anti-Atheism/Agnosticism,1
+2018,South,Anti-Bisexual,1
+2018,South,Anti-Black or African American,473
+2018,South,Anti-Buddhist,4
+2018,South,Anti-Catholic,6
+2018,South,"Anti-Eastern Orthodox (Russian, Greek, Other)",8
+2018,South,Anti-Female,22
+2018,South,Anti-Gay (Male),180
+2018,South,Anti-Gender Non-Conforming,13
+2018,South,Anti-Heterosexual,2
+2018,South,Anti-Hindu,2
+2018,South,Anti-Hispanic or Latino,114
+2018,South,Anti-Islamic (Muslim),32
+2018,South,Anti-Jehovah's Witness,3
+2018,South,Anti-Jewish,78
+2018,South,Anti-Lesbian (Female),26
+2018,South,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",84
+2018,South,Anti-Male,8
+2018,South,Anti-Mental Disability,30
+2018,South,Anti-Mormon,2
+2018,South,"Anti-Multiple Races, Group",28
+2018,South,"Anti-Multiple Religions, Group",17
+2018,South,Anti-Native Hawaiian or Other Pacific Islander,1
+2018,South,Anti-Other Christian,14
+2018,South,Anti-Other Race/Ethnicity/Ancestry,71
+2018,South,Anti-Other Religion,28
+2018,South,Anti-Physical Disability,20
+2018,South,Anti-Protestant,16
+2018,South,Anti-Sikh,23
+2018,South,Anti-Transgender,55
+2018,South,Anti-White,278
+2018,West,Anti-American Indian or Alaska Native,17
+2018,West,Anti-Arab,30
+2018,West,Anti-Asian,70
+2018,West,Anti-Atheism/Agnosticism,2
+2018,West,Anti-Bisexual,5
+2018,West,Anti-Black or African American,579
+2018,West,Anti-Buddhist,1
+2018,West,Anti-Catholic,13
+2018,West,"Anti-Eastern Orthodox (Russian, Greek, Other)",3
+2018,West,Anti-Female,11
+2018,West,Anti-Gay (Male),271
+2018,West,Anti-Gender Non-Conforming,6
+2018,West,Anti-Heterosexual,4
+2018,West,Anti-Hindu,8
+2018,West,Anti-Hispanic or Latino,245
+2018,West,Anti-Islamic (Muslim),58
+2018,West,Anti-Jehovah's Witness,4
+2018,West,Anti-Jewish,216
+2018,West,Anti-Lesbian (Female),42
+2018,West,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",148
+2018,West,Anti-Male,2
+2018,West,Anti-Mental Disability,8
+2018,West,Anti-Mormon,5
+2018,West,"Anti-Multiple Races, Group",53
+2018,West,"Anti-Multiple Religions, Group",11
+2018,West,Anti-Native Hawaiian or Other Pacific Islander,5
+2018,West,Anti-Other Christian,25
+2018,West,Anti-Other Race/Ethnicity/Ancestry,83
+2018,West,Anti-Other Religion,28
+2018,West,Anti-Physical Disability,13
+2018,West,Anti-Protestant,5
+2018,West,Anti-Sikh,5
+2018,West,Anti-Transgender,53
+2018,West,Anti-White,166
+2019,Midwest,Anti-American Indian or Alaska Native,34
+2019,Midwest,Anti-Arab,25
+2019,Midwest,Anti-Asian,17
+2019,Midwest,Anti-Atheism/Agnosticism,1
+2019,Midwest,Anti-Bisexual,10
+2019,Midwest,Anti-Black or African American,422
+2019,Midwest,Anti-Catholic,17
+2019,Midwest,"Anti-Eastern Orthodox (Russian, Greek, Other)",30
+2019,Midwest,Anti-Female,20
+2019,Midwest,Anti-Gay (Male),103
+2019,Midwest,Anti-Gender Non-Conforming,14
+2019,Midwest,Anti-Heterosexual,7
+2019,Midwest,Anti-Hispanic or Latino,72
+2019,Midwest,Anti-Islamic (Muslim),36
+2019,Midwest,Anti-Jehovah's Witness,1
+2019,Midwest,Anti-Jewish,48
+2019,Midwest,Anti-Lesbian (Female),27
+2019,Midwest,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",51
+2019,Midwest,Anti-Male,6
+2019,Midwest,Anti-Mental Disability,57
+2019,Midwest,"Anti-Multiple Races, Group",28
+2019,Midwest,"Anti-Multiple Religions, Group",5
+2019,Midwest,Anti-Native Hawaiian or Other Pacific Islander,14
+2019,Midwest,Anti-Other Christian,10
+2019,Midwest,Anti-Other Race/Ethnicity/Ancestry,69
+2019,Midwest,Anti-Other Religion,16
+2019,Midwest,Anti-Physical Disability,11
+2019,Midwest,Anti-Protestant,4
+2019,Midwest,Anti-Sikh,12
+2019,Midwest,Anti-Transgender,24
+2019,Midwest,Anti-White,162
+2019,Northeast,Anti-American Indian or Alaska Native,5
+2019,Northeast,Anti-Arab,36
+2019,Northeast,Anti-Asian,62
+2019,Northeast,Anti-Bisexual,5
+2019,Northeast,Anti-Black or African American,642
+2019,Northeast,Anti-Buddhist,2
+2019,Northeast,Anti-Catholic,25
+2019,Northeast,"Anti-Eastern Orthodox (Russian, Greek, Other)",1
+2019,Northeast,Anti-Female,10
+2019,Northeast,Anti-Gay (Male),207
+2019,Northeast,Anti-Gender Non-Conforming,5
+2019,Northeast,Anti-Heterosexual,6
+2019,Northeast,Anti-Hindu,4
+2019,Northeast,Anti-Hispanic or Latino,100
+2019,Northeast,Anti-Islamic (Muslim),64
+2019,Northeast,Anti-Jehovah's Witness,2
+2019,Northeast,Anti-Jewish,707
+2019,Northeast,Anti-Lesbian (Female),24
+2019,Northeast,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",52
+2019,Northeast,Anti-Male,1
+2019,Northeast,Anti-Mental Disability,3
+2019,Northeast,"Anti-Multiple Races, Group",12
+2019,Northeast,"Anti-Multiple Religions, Group",3
+2019,Northeast,Anti-Other Christian,6
+2019,Northeast,Anti-Other Race/Ethnicity/Ancestry,65
+2019,Northeast,Anti-Other Religion,10
+2019,Northeast,Anti-Physical Disability,2
+2019,Northeast,Anti-Protestant,1
+2019,Northeast,Anti-Transgender,25
+2019,Northeast,Anti-White,108
+2019,Other,Anti-Arab,2
+2019,Other,Anti-Atheism/Agnosticism,2
+2019,Other,Anti-Black or African American,39
+2019,Other,Anti-Catholic,4
+2019,Other,Anti-Gay (Male),7
+2019,Other,Anti-Heterosexual,1
+2019,Other,Anti-Hispanic or Latino,7
+2019,Other,Anti-Islamic (Muslim),6
+2019,Other,Anti-Jewish,19
+2019,Other,Anti-Lesbian (Female),3
+2019,Other,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",6
+2019,Other,"Anti-Multiple Races, Group",9
+2019,Other,"Anti-Multiple Religions, Group",3
+2019,Other,Anti-Other Christian,1
+2019,Other,Anti-Other Race/Ethnicity/Ancestry,1
+2019,Other,Anti-Other Religion,6
+2019,Other,Anti-Transgender,3
+2019,Other,Anti-White,5
+2019,South,Anti-American Indian or Alaska Native,43
+2019,South,Anti-Arab,21
+2019,South,Anti-Asian,26
+2019,South,Anti-Atheism/Agnosticism,2
+2019,South,Anti-Bisexual,6
+2019,South,Anti-Black or African American,512
+2019,South,Anti-Buddhist,2
+2019,South,Anti-Catholic,12
+2019,South,"Anti-Eastern Orthodox (Russian, Greek, Other)",20
+2019,South,Anti-Female,17
+2019,South,Anti-Gay (Male),170
+2019,South,Anti-Gender Non-Conforming,18
+2019,South,Anti-Heterosexual,3
+2019,South,Anti-Hindu,3
+2019,South,Anti-Hispanic or Latino,169
+2019,South,Anti-Islamic (Muslim),31
+2019,South,Anti-Jehovah's Witness,2
+2019,South,Anti-Jewish,83
+2019,South,Anti-Lesbian (Female),29
+2019,South,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",85
+2019,South,Anti-Male,7
+2019,South,Anti-Mental Disability,30
+2019,South,Anti-Mormon,1
+2019,South,"Anti-Multiple Races, Group",36
+2019,South,"Anti-Multiple Religions, Group",12
+2019,South,Anti-Native Hawaiian or Other Pacific Islander,3
+2019,South,Anti-Other Christian,17
+2019,South,Anti-Other Race/Ethnicity/Ancestry,81
+2019,South,Anti-Other Religion,23
+2019,South,Anti-Physical Disability,19
+2019,South,Anti-Protestant,10
+2019,South,Anti-Sikh,45
+2019,South,Anti-Transgender,44
+2019,South,Anti-White,247
+2019,West,Anti-American Indian or Alaska Native,20
+2019,West,Anti-Arab,35
+2019,West,Anti-Asian,93
+2019,West,Anti-Atheism/Agnosticism,2
+2019,West,Anti-Bisexual,9
+2019,West,Anti-Black or African American,680
+2019,West,Anti-Buddhist,2
+2019,West,Anti-Catholic,16
+2019,West,"Anti-Eastern Orthodox (Russian, Greek, Other)",2
+2019,West,Anti-Female,17
+2019,West,Anti-Gay (Male),315
+2019,West,Anti-Gender Non-Conforming,12
+2019,West,Anti-Heterosexual,1
+2019,West,Anti-Hispanic or Latino,226
+2019,West,Anti-Islamic (Muslim),59
+2019,West,Anti-Jehovah's Witness,2
+2019,West,Anti-Jewish,243
+2019,West,Anti-Lesbian (Female),38
+2019,West,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",114
+2019,West,Anti-Male,2
+2019,West,Anti-Mental Disability,11
+2019,West,Anti-Mormon,10
+2019,West,"Anti-Multiple Races, Group",54
+2019,West,"Anti-Multiple Religions, Group",16
+2019,West,Anti-Native Hawaiian or Other Pacific Islander,6
+2019,West,Anti-Other Christian,18
+2019,West,Anti-Other Race/Ethnicity/Ancestry,106
+2019,West,Anti-Other Religion,33
+2019,West,Anti-Physical Disability,15
+2019,West,Anti-Protestant,6
+2019,West,Anti-Sikh,9
+2019,West,Anti-Transgender,62
+2019,West,Anti-White,157
+2020,Midwest,Anti-American Indian or Alaska Native,29
+2020,Midwest,Anti-Arab,17
+2020,Midwest,Anti-Asian,25
+2020,Midwest,Anti-Bisexual,4
+2020,Midwest,Anti-Black or African American,548
+2020,Midwest,Anti-Buddhist,2
+2020,Midwest,Anti-Catholic,21
+2020,Midwest,"Anti-Eastern Orthodox (Russian, Greek, Other)",17
+2020,Midwest,Anti-Female,19
+2020,Midwest,Anti-Gay (Male),100
+2020,Midwest,Anti-Gender Non-Conforming,13
+2020,Midwest,Anti-Heterosexual,2
+2020,Midwest,Anti-Hindu,1
+2020,Midwest,Anti-Hispanic or Latino,62
+2020,Midwest,Anti-Islamic (Muslim),28
+2020,Midwest,Anti-Jehovah's Witness,4
+2020,Midwest,Anti-Jewish,61
+2020,Midwest,Anti-Lesbian (Female),23
+2020,Midwest,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",40
+2020,Midwest,Anti-Male,4
+2020,Midwest,Anti-Mental Disability,22
+2020,Midwest,Anti-Mormon,1
+2020,Midwest,"Anti-Multiple Races, Group",36
+2020,Midwest,"Anti-Multiple Religions, Group",10
+2020,Midwest,Anti-Native Hawaiian or Other Pacific Islander,5
+2020,Midwest,Anti-Other Christian,11
+2020,Midwest,Anti-Other Race/Ethnicity/Ancestry,42
+2020,Midwest,Anti-Other Religion,22
+2020,Midwest,Anti-Physical Disability,11
+2020,Midwest,Anti-Protestant,1
+2020,Midwest,Anti-Sikh,25
+2020,Midwest,Anti-Transgender,20
+2020,Midwest,Anti-White,264
+2020,Northeast,Anti-American Indian or Alaska Native,5
+2020,Northeast,Anti-Arab,43
+2020,Northeast,Anti-Asian,124
+2020,Northeast,Anti-Atheism/Agnosticism,1
+2020,Northeast,Anti-Bisexual,3
+2020,Northeast,Anti-Black or African American,1078
+2020,Northeast,Anti-Buddhist,2
+2020,Northeast,Anti-Catholic,22
+2020,Northeast,Anti-Female,14
+2020,Northeast,Anti-Gay (Male),179
+2020,Northeast,Anti-Gender Non-Conforming,9
+2020,Northeast,Anti-Heterosexual,6
+2020,Northeast,Anti-Hindu,8
+2020,Northeast,Anti-Hispanic or Latino,128
+2020,Northeast,Anti-Islamic (Muslim),40
+2020,Northeast,Anti-Jehovah's Witness,2
+2020,Northeast,Anti-Jewish,505
+2020,Northeast,Anti-Lesbian (Female),37
+2020,Northeast,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",92
+2020,Northeast,Anti-Male,2
+2020,Northeast,Anti-Mental Disability,11
+2020,Northeast,"Anti-Multiple Races, Group",48
+2020,Northeast,"Anti-Multiple Religions, Group",10
+2020,Northeast,Anti-Native Hawaiian or Other Pacific Islander,4
+2020,Northeast,Anti-Other Christian,4
+2020,Northeast,Anti-Other Race/Ethnicity/Ancestry,81
+2020,Northeast,Anti-Other Religion,7
+2020,Northeast,Anti-Physical Disability,8
+2020,Northeast,Anti-Protestant,4
+2020,Northeast,Anti-Sikh,14
+2020,Northeast,Anti-Transgender,28
+2020,Northeast,Anti-White,153
+2020,Other,Anti-American Indian or Alaska Native,1
+2020,Other,Anti-Arab,3
+2020,Other,Anti-Asian,12
+2020,Other,Anti-Bisexual,1
+2020,Other,Anti-Black or African American,99
+2020,Other,Anti-Buddhist,5
+2020,Other,Anti-Catholic,5
+2020,Other,Anti-Female,1
+2020,Other,Anti-Gay (Male),12
+2020,Other,Anti-Hispanic or Latino,5
+2020,Other,Anti-Islamic (Muslim),4
+2020,Other,Anti-Jewish,26
+2020,Other,Anti-Lesbian (Female),4
+2020,Other,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",4
+2020,Other,"Anti-Multiple Races, Group",8
+2020,Other,"Anti-Multiple Religions, Group",2
+2020,Other,Anti-Other Christian,6
+2020,Other,Anti-Other Race/Ethnicity/Ancestry,2
+2020,Other,Anti-Other Religion,5
+2020,Other,Anti-Transgender,10
+2020,Other,Anti-White,1
+2020,South,Anti-American Indian or Alaska Native,39
+2020,South,Anti-Arab,15
+2020,South,Anti-Asian,32
+2020,South,Anti-Atheism/Agnosticism,6
+2020,South,Anti-Bisexual,5
+2020,South,Anti-Black or African American,812
+2020,South,Anti-Buddhist,6
+2020,South,Anti-Catholic,16
+2020,South,"Anti-Eastern Orthodox (Russian, Greek, Other)",54
+2020,South,Anti-Female,19
+2020,South,Anti-Gay (Male),189
+2020,South,Anti-Gender Non-Conforming,17
+2020,South,Anti-Heterosexual,8
+2020,South,Anti-Hindu,1
+2020,South,Anti-Hispanic or Latino,126
+2020,South,Anti-Islamic (Muslim),17
+2020,South,Anti-Jewish,84
+2020,South,Anti-Lesbian (Female),25
+2020,South,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",81
+2020,South,Anti-Male,9
+2020,South,Anti-Mental Disability,28
+2020,South,Anti-Mormon,3
+2020,South,"Anti-Multiple Races, Group",73
+2020,South,"Anti-Multiple Religions, Group",27
+2020,South,Anti-Native Hawaiian or Other Pacific Islander,11
+2020,South,Anti-Other Christian,14
+2020,South,Anti-Other Race/Ethnicity/Ancestry,81
+2020,South,Anti-Other Religion,26
+2020,South,Anti-Physical Disability,21
+2020,South,Anti-Protestant,10
+2020,South,Anti-Sikh,92
+2020,South,Anti-Transgender,48
+2020,South,Anti-White,382
+2020,West,Anti-American Indian or Alaska Native,41
+2020,West,Anti-Arab,25
+2020,West,Anti-Asian,147
+2020,West,Anti-Atheism/Agnosticism,3
+2020,West,Anti-Bisexual,10
+2020,West,Anti-Black or African American,1044
+2020,West,Anti-Buddhist,8
+2020,West,Anti-Catholic,15
+2020,West,"Anti-Eastern Orthodox (Russian, Greek, Other)",7
+2020,West,Anti-Female,14
+2020,West,Anti-Gay (Male),294
+2020,West,Anti-Gender Non-Conforming,19
+2020,West,Anti-Heterosexual,1
+2020,West,Anti-Hindu,4
+2020,West,Anti-Hispanic or Latino,300
+2020,West,Anti-Islamic (Muslim),38
+2020,West,Anti-Jewish,208
+2020,West,Anti-Lesbian (Female),34
+2020,West,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",97
+2020,West,Anti-Male,9
+2020,West,Anti-Mental Disability,12
+2020,West,Anti-Mormon,5
+2020,West,"Anti-Multiple Races, Group",70
+2020,West,"Anti-Multiple Religions, Group",9
+2020,West,Anti-Native Hawaiian or Other Pacific Islander,8
+2020,West,Anti-Other Christian,22
+2020,West,Anti-Other Race/Ethnicity/Ancestry,123
+2020,West,Anti-Other Religion,31
+2020,West,Anti-Physical Disability,17
+2020,West,Anti-Protestant,15
+2020,West,Anti-Sikh,19
+2020,West,Anti-Transgender,101
+2020,West,Anti-White,290

@@ -1,0 +1,36 @@
+.padding {
+    width:80%;
+    height:40%;
+    padding: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.node:hover{
+    stroke-width: 7px !important;
+    opacity: 1 !important;
+  }
+  .Legend div{
+    margin-left:15px;
+    width: 12px;
+    height: 12px;
+    border:1px solid #808080;
+}
+.ie7 .Legend div{
+    display:inline;
+    zoom:1;
+}
+.Midwest { background-color: #B7A4C2; }
+.Northeast { background-color: #B080CC; }
+.Other { background-color: #9370DB; }
+.South { background-color: #642592; }
+.USTerr { background-color: #8B008B; }
+.West { background-color: #000000; }
+
+
+
+
+
+
+
+
