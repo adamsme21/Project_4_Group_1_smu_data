@@ -22,8 +22,8 @@ $(document).ready(function() {
 });
 
 function initializeViz() {
-    var placeholderDiv = document.getElementById("tableauViz");
-    var url = "https://public.tableau.com/views/SoldHomesDashboard_16545654203190/SoldHomes?:language=en-US&:display_count=n&:origin=viz_share_link";
+    var placeholderDiv = document.getElementById("tableauViz3");
+    var url = "https://public.tableau.com/views/DFWCountyCensusData/CountyCensusData?:language=en-US&:display_count=n&:origin=viz_share_link";
     var options = {
         width: placeholderDiv.offsetWidth,
         height: placeholderDiv.offsetHeight,
