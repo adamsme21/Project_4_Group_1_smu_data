@@ -37,8 +37,9 @@ function makePredictions() {
         data: JSON.stringify({ "data": payload }),
         success: function(returnedData) {
             // print it
-            console.log(returnedData);
-            $("#output").text(`$${returnedData.prediction}`)
+            console.log(returnedData)
+            // $("#output").text(`$${returnedData.prediction}`)
+            $("#output").text(`$${Math.round(returnedData.prediction)}`)
         },
         error: function(XMLHttpRequest, textStatus, errorThrown) {
             alert("Status: " + textStatus);
