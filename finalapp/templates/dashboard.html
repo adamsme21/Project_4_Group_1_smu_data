@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang = 'eng'>
+<head>
+    <meta charset = 'UTF-8'>
+    <title>Dashboard</title>
+    
+    <link rel="icon" type="image/x-icon" href="/static/pictures/favicon.png">
+
+    <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"></script>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <script src="https://unpkg.com/d3-v6-tip@1.0.6/build/d3-v6-tip.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootswatch@4.5.2/dist/lux/bootstrap.min.css">
+    <link rel="stylesheet" href="static/css/style.css">
+    <script type="text/javascript" src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
+    <script type="text/javascript" src="static/js/tableau_api.js"></script>
+  </head>
+
+<body>
+  
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="/">DFW Housing Market</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor02" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+      
+          <div class="collapse navbar-collapse" id="navbarColor01">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="/dashboard">Dashboard</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="/map">Map</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="/census">Census</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="/prediction">Prediction Model</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="/writeup">Written Report</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="/aboutus">About Us</a>
+                  </li>
+              <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Data info</a>
+                <div class="dropdown-menu">
+                  <a class="dropdown-item" href="/sourcedata">Source Data</a>
+                  <a class="dropdown-item" href="/workscited">Works Cited</a>
+                </div>
+              </li>
+
+            </ul>
+          </div>
+        </div>
+      </nav>
+      <br>
+      <br>
+      <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+            <div class="card bg-light">
+                <div class="card-body">
+                  <h2>Sold Homes Dataset: Filter your selection below</h2>
+                  <hr>
+                  <p class = "lead">The vertical bar graph shows the number of sold homes grouped by county, color-coded by price per square foot. Dallas and Collin had the highest price per square foot, while Tarrant had the lowest. That may have been a motivating factor for buyers, because Tarrant had most of the homes sold in the dataset.</p>
+                  <p class = "lead">The box-and-whisker plot groups each sold home by whether or not they have an HOA, with the y-axis being price per square foot. This shows the average price per square foot is actually higher in homes without an HOA. This looks to be because the majority of the higher-priced homes without an HOA are in Highland Park and Southlake, one of the most expensive areas of DFW per the map, dragging the average upward.</p>
+                  <p class = "lead">The line graph shows the average county’s closing price separated by month, color-coded by price per square foot. Between March and May 2022, closing prices overall went up in Collin, Dallas, and Hunt counties, and down in Ellis, Kaufman, Rockwall, and Tarrant counties. However, Kaufman and Tarrant counties were the only ones to have the price per square foot drop. Everywhere else, that increased, sometimes dramatically like in Dallas ($207 to $256/sq. ft).</p>
+              </div>
+              <hr>
+              <div id="tableauParent" class="container-fluid">
+                <div style="height:1000px" id="tableauViz"></div>
+            </div>
+        
+        
+              <br>
+             
+            
+          </div>
+
+              
+</body>
+
+
+
+</html>
